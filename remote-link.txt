@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://north-alternative-returned-oil.trycloudflare.com/vnc.html
+URL       : https://study-thomson-outside-yoga.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 11:39:33
+Created   : 2026-07-05 16:13:11
 =======================================================
