@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://charger-independently-joseph-wan.trycloudflare.com/vnc.html
+URL       : https://chronicles-autos-blanket-build.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-06 13:49:13
+Created   : 2026-07-06 17:47:56
 =======================================================
