@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://unix-preview-light-dresses.trycloudflare.com/vnc.html
+URL       : https://man-potentially-sbjct-preservation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-10 12:28:52
+Created   : 2026-07-10 17:00:02
 =======================================================
