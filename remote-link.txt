@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://visit-documentation-rapids-relocation.trycloudflare.com/vnc.html
+URL       : https://kirk-someone-deutsche-futures.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 07:32:20
+Created   : 2026-07-12 11:13:55
 =======================================================
