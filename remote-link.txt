@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tuesday-endif-doc-ccd.trycloudflare.com/vnc.html
+URL       : https://mirror-forge-calculated-town.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 21:12:12
+Created   : 2026-07-23 02:53:35
 =======================================================
