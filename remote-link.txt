@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://giving-simpsons-enquiry-potter.trycloudflare.com/vnc.html
+URL       : https://permits-entire-cool-ide.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 02:32:16
+Created   : 2026-07-30 07:36:57
 =======================================================
