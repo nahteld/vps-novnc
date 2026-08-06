@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://avoid-opera-gpl-grill.trycloudflare.com/vnc.html
+URL       : https://humans-oldest-completed-diverse.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 02:41:55
+Created   : 2026-08-06 07:43:37
 =======================================================
