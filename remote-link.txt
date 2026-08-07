@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://checking-steps-authorized-pressure.trycloudflare.com/vnc.html
+URL       : https://relevance-say-skating-print.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 00:56:00
+Created   : 2026-08-07 06:12:05
 =======================================================
