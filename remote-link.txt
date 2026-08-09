@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://largely-html-bend-disciplinary.trycloudflare.com/vnc.html
+URL       : https://rochester-mighty-lamp-ventures.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-09 10:38:18
+Created   : 2026-08-09 15:35:20
 =======================================================
