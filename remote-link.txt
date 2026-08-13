@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proteins-soc-doing-eat.trycloudflare.com/vnc.html
+URL       : https://utilities-heating-suggesting-tee.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 16:02:35
+Created   : 2026-08-13 20:47:56
 =======================================================
