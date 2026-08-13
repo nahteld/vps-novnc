@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://decimal-ceramic-adware-buys.trycloudflare.com/vnc.html
+URL       : https://proteins-soc-doing-eat.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 11:04:01
+Created   : 2026-08-13 16:02:35
 =======================================================
