@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gdp-ongoing-individually-toner.trycloudflare.com/vnc.html
+URL       : https://board-august-resolutions-dame.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 05:27:45
+Created   : 2026-08-15 10:25:56
 =======================================================
