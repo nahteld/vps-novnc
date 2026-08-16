@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://races-hood-safer-cons.trycloudflare.com/vnc.html
+URL       : https://partner-acknowledged-usd-space.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 20:25:39
+Created   : 2026-08-16 01:24:05
 =======================================================
