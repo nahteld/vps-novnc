@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rice-surely-promises-economy.trycloudflare.com/vnc.html
+URL       : https://trunk-large-odds-medieval.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 09:32:31
+Created   : 2026-09-03 14:15:36
 =======================================================
