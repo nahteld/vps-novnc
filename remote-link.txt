@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eyes-routing-dosage-toronto.trycloudflare.com/vnc.html
+URL       : https://plains-efforts-simplified-mime.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-17 22:45:03
+Created   : 2026-09-18 09:27:54
 =======================================================
