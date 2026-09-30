@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://notes-removed-have-selected.trycloudflare.com/vnc.html
+URL       : https://royal-porcelain-counted-beaches.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-30 19:54:52
+Created   : 2026-09-30 23:34:28
 =======================================================
