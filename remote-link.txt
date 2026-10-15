@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cited-draw-glenn-abilities.trycloudflare.com/vnc.html
+URL       : https://framework-optical-modifications-april.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 09:41:18
+Created   : 2026-10-15 14:45:57
 =======================================================
