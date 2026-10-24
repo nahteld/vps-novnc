@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://edited-giants-casino-return.trycloudflare.com/vnc.html
+URL       : https://jewel-varying-pools-needs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 09:21:54
+Created   : 2026-10-24 13:54:36
 =======================================================
