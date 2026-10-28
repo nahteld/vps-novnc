@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coaches-lie-sorts-ministry.trycloudflare.com/vnc.html
+URL       : https://ventures-trucks-kick-assets.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 04:33:36
+Created   : 2026-10-28 11:05:00
 =======================================================
