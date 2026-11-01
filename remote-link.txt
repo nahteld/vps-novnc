@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://developmental-helicopter-cole-replica.trycloudflare.com/vnc.html
+URL       : https://investigators-opposite-lincoln-diamond.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 04:53:30
+Created   : 2026-11-01 11:45:13
 =======================================================
