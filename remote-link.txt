@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fully-maker-discuss-fig.trycloudflare.com/vnc.html
+URL       : https://harder-expenditure-salvation-weight.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-19 18:55:52
+Created   : 2026-11-20 01:43:36
 =======================================================
