@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://css-designers-eden-entering.trycloudflare.com/vnc.html
+URL       : https://tuition-light-shade-soldiers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-22 00:10:17
+Created   : 2026-11-22 13:08:53
 =======================================================
