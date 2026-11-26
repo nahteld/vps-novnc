@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://beef-function-editing-tracking.trycloudflare.com/vnc.html
+URL       : https://commons-competent-eau-useful.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 14:48:40
+Created   : 2026-11-26 23:33:53
 =======================================================
